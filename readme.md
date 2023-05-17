@@ -10,6 +10,7 @@ Files are divided per category:
 - filters
 - SSP
 - AGN\_templates
+- IGM
 
 ## Download
 
@@ -18,9 +19,9 @@ Files are divided per category:
 Otherwise the user can clone this repository and add its location permanently to the database search path:
 
 ``` bash
-$ git clone https://github.com/TommasoRonconi/galapy_data.git
+$ git clone https://github.com/TommasoRonconi/galapy_database.git
 ```
 
 ## Change History
 
-- **v.0.0.1** (13/10/22) first upload and release, mainly for testing the download functionalities in GalaPy.
+- **v.0.1.0** (17/05/23) first upload and release, mainly for testing the download functionalities in GalaPy.
