@@ -1,11 +1,0 @@
---2023-05-15 17:48:14--  http://svo2.cab.inta-csic.es/theory/fps/index.php?id=JWST/NIRISS.F150W
-Resolving svo2.cab.inta-csic.es (svo2.cab.inta-csic.es)... 193.146.134.6
-Connecting to svo2.cab.inta-csic.es (svo2.cab.inta-csic.es)|193.146.134.6|:80... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: unspecified [text/html]
-Saving to: ‘index.php?id=JWST%2FNIRISS.F150W’
-
-index.php?id=JWST%2FNIRISS.F150W                       [<=>                                                                                                             ]       0  --.-KB/s               index.php?id=JWST%2FNIRISS.F150W                       [ <=>                                                                                                            ] 149.48K  --.-KB/s    in 0.09s   
-
-2023-05-15 17:48:14 (1.58 MB/s) - ‘index.php?id=JWST%2FNIRISS.F150W’ saved [153070]
-
