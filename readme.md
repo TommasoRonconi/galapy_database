@@ -24,4 +24,4 @@ $ git clone https://github.com/TommasoRonconi/galapy_database.git
 
 ## Change History
 
-- **v.0.1.0** (17/05/23) first upload and release, mainly for testing the download functionalities in GalaPy.
+- **v0.1.0** (31/05/23) first upload and release, mainly for testing the download functionalities in GalaPy.
