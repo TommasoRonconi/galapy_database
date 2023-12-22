@@ -11,6 +11,7 @@ Files are divided per category:
 - SSP
 - AGN\_templates
 - IGM
+- images
 
 ## Download
 
