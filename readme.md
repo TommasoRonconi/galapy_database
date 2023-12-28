@@ -25,5 +25,6 @@ $ git clone https://github.com/TommasoRonconi/galapy_database.git
 
 ## Change History
 
+- **v0.2.0** (28/12/23) new naming convention for SSP tables
 - **v0.1.2** (24/10/23) patch solving the bumps in SSP tables
 - **v0.1.0** (31/05/23) first upload and release, mainly for testing the download functionalities in GalaPy.
