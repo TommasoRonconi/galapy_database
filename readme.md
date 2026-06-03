@@ -33,6 +33,7 @@ $ git clone https://github.com/TommasoRonconi/galapy_database.git
 
 ## Change History
 
+- **v0.2.2** (03/06/26) added some bands and updated logos sub-dir
 - **v0.2.1** (09/02/24) added references to authors of data/models
 - **v0.2.0** (28/12/23) new naming convention for SSP tables
 - **v0.1.2** (24/10/23) patch solving the bumps in SSP tables
